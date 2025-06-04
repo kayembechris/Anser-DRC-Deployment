@@ -1,6 +1,6 @@
-# SIG DevOps Deployment
+# SIG DevOps IA Deployment
 
-Ce dépôt contient l'infrastructure DevOps pour un projet SIG fullstack (React + Flask + Flutter).
+Ce projet DevOps public automatise le déploiement d'une application SIG complète (front-end React, back-end Flask) sur un VPS Linux Ubuntu via Ansible, et génère automatiquement un changelog intelligent à chaque merge sur `main` en utilisant un modèle IA 
 
 ## Fonctionnalités
 
